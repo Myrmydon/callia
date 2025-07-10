@@ -58,6 +58,10 @@
 
 > Merci d'utiliser Callia. Ce projet est en évolution constante !  
 > *Thanks for using Callia. This project is continuously improving!*
+>
+> ☕ Me soutenir
+Si Callia vous a été utile ou vous a fait gagner du temps, vous pouvez me soutenir avec un petit café virtuel ❤️
+> buymeacoffee.com/myrmydon
 =======
 # callia
 Application open source de mise en page de manuscrits pour l’autoédition (PDF &amp; EPUB)
