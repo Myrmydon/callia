@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🖋️ Callia – Générateur de PDF pour écrivains
 
 📦 **Version portable** – Aucune installation requise  
@@ -57,3 +58,7 @@
 
 > Merci d'utiliser Callia. Ce projet est en évolution constante !  
 > *Thanks for using Callia. This project is continuously improving!*
+=======
+# callia
+Application open source de mise en page de manuscrits pour l’autoédition (PDF &amp; EPUB)
+>>>>>>> 6f545e4bf63e09311384a46b89b9c052ae6b0e23
